@@ -1,0 +1,3 @@
+
+
+INSERT INTO STUDENT VALUES (1, 'Ravi', 28, 'IT');
