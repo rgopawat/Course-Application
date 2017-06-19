@@ -24,5 +24,7 @@ LAUNCH URL http://localhost:8085/
 
 TEST VIA POSTMAN http://localhost:8085/add/students
 
-Sample JSON: { "studentName": "ABCD", "studentAge": 28, "studentCourse": "IT Development", "universityName: "Stevenson University", "universityCountry" : "United States"
+Sample JSON: { "studentName": "ABCD", "studentAge": 28, "studentCourse": "IT Development", "universityName: "Stevenson University", "universityCountry" : "United States" }
+
+
 GET ALL URL (Sample) http://localhost:8085/getAllStudents
